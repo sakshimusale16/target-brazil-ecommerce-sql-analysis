@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-This project was completed as part of a Scaler Data Analytics case study.
-
 The analysis uses Brazilian e-commerce data from 2016 to 2018 to understand customer behavior, order trends, payment patterns, revenue, freight costs, and delivery performance.
 
 The dataset contains more than 100,000 orders across multiple tables, including customers, orders, payments, and order items.
