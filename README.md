@@ -1,6 +1,6 @@
 # Target Brazil E-commerce — SQL Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as part of a Scaler Data Analytics case study.
 
@@ -8,7 +8,7 @@ The analysis uses Brazilian e-commerce data from 2016 to 2018 to understand cust
 
 The dataset contains more than 100,000 orders across multiple tables, including customers, orders, payments, and order items.
 
-## 🎯 Business Objective
+##  Business Objective
 
 The objective of this analysis is to use SQL to identify:
 
@@ -20,7 +20,7 @@ The objective of this analysis is to use SQL to identify:
 - Payment behavior and installment patterns
 - Potential operational bottlenecks and business opportunities
 
-## 🗂️ Dataset
+##  Dataset
 
 The analysis covers e-commerce activity from 2016 to 2018.
 
@@ -31,7 +31,7 @@ Key tables used:
 - `payments`
 - `order_items`
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - SQL
 - Google BigQuery
@@ -43,7 +43,7 @@ Key tables used:
 - Date & Time Functions
 - CASE Statements
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1. Basic Exploration
 
@@ -79,7 +79,7 @@ Key tables used:
 - Month-on-month orders by payment type
 - Orders by number of payment installments
 
-## 📊 Key Insights
+## Key Insights
 
 - Order volume showed year-over-year growth from 2016 to 2018.
 - Peak order activity occurred around June to September.
@@ -88,7 +88,7 @@ Key tables used:
 - Remote states showed higher freight costs and longer delivery times.
 - Customers frequently used installment-based payments.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis:
 
@@ -97,7 +97,7 @@ Based on the analysis:
 - Optimize freight and delivery routes to reduce logistics costs.
 - Continue supporting flexible payment options such as installments.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 target-brazil-ecommerce-sql-analysis/
